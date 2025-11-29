@@ -4,10 +4,12 @@ Estudante de Sistemas de Informação e Jovem Aprendiz na área de TI em Vitóri
 
 Criei este perfil para documentar minha evolução em Cibersegurança. Meu objetivo aqui não é apenas guardar código, mas mostrar como estou aplicando na prática o que aprendo nos cursos e certificações.
 
-🛠️ **O que estou usando**
-* Python (para criar minhas próprias ferramentas de segurança)
-* Linux (Kali e Ubuntu no dia a dia)
-* Wireshark e Nmap (para entender redes a fundo)
+## 💻 Tech Stack & Ferramentas
+
+* 🛡️ **Blue Team (Defesa):** Wireshark, Análise de Tráfego (Packet Sniffing), TCP/IP Deep Dive.
+* ⚔️ **Red Team (Ataque):** Kali Linux, Nmap (Network Mapper), Metasploit Framework, Vulnerability Scanning.
+* 🐍 **Code & Automação:** Python (Scripting/Sockets), Bash, Git/GitHub.
+* ☁️ **Infra:** VirtualBox, Linux Administration (Ubuntu/Debian).
 
 📚 **Minha jornada de estudos**
 
