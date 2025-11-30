@@ -31,4 +31,4 @@ Não acredite apenas na minha palavra. Veja o código e a documentação:
 * 🕷️ **[Web Hacking (SQL Injection)](https://github.com/d-oppelganger/web-hacking-burpsuite)**: Exploração de falhas em aplicações modernas.
 
 ---
-*Focado em construir uma carreira sólida em Cibersegurança e Infraestrutura.*
+*Focado em construir uma carreira sólida em Cibersegurança.*
